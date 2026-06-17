@@ -6,10 +6,7 @@ About Me
 
 I write frontend code for a living, or close enough to one rn. React, Next.js, Tailwind, the usual suspects. Picked them up because plain CSS got old fast.
 
-Not big on hype. If something's broken I'll fix it, if it's ugly I'll fix that too, tell me what's broken, I'll take it from there.
+Not big on hype. If something's broken Ill fix it, if it's ugly Ill fix that too, tell me what's broken, imma take it from there.
 
-Currently figuring out the rest as I go, speak of the target. I'll close it out.
-
-I like my UI fast, my logic simple, and my bugs someone else's problem by the time I'm done.
-
+Currently figuring out the rest as I go, speak of the target. imma close it out.
 Collabs welcome. Banter encouraged
